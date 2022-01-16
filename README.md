@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ricardo Bermudez</h1>
 <h3 align="center">Un Apasionado Diseñador Grafico/UI/Frontend Developver</h3>
 
-- 🌱 I’m currently learning **NextJs, ReactJs, SvelteJs**
+- 🌱 I’m currently learning **NextJs, ReactJs, SWR**
 
-- 💬 Ask me about **I like to use ReactJs and SvelteJs.**
+- 💬 Ask me about **I like to use ReactJs and NextJs.**
 
 - 📫 How to reach me **RicardoTeleez7@hotmail.com**
 
